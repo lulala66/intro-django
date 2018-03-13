@@ -25,5 +25,5 @@ pip install requirements.txt
 
 - [ ] this is a complete project
 - [x] this is an incomplete project
-- [ ] test module to be writing
+- [x] test module to be writing
 - [ ] use bootstrap to make it looks pretty
