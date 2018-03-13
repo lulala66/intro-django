@@ -7,7 +7,7 @@
 
 ## Download this project
 
-Use following command to download:
+Use following command to download :ghost::
 
 ```bash
 git clone https://github.com/lulala66/intro-django.git
@@ -20,3 +20,10 @@ Use pip install to install all required packages:
 ```bash
 pip install requirements.txt
 ```
+
+## To do list
+
+- [ ] this is a complete project
+- [x] this is an incomplete project
+- [ ] test module to be writing
+- [ ] use bootstrap to make it looks pretty
